@@ -26,8 +26,8 @@ The RSS feed follows the standard RSS 2.0 format with additional custom elements
     </snf:darkModeLogo>
     <item>
       <title>Example Stocktwits Article</title>
-      <link>https://stocktwits.com/news/category/subcategory/article-slug/12345</link>
-      <guid>https://stocktwits.com/news/category/subcategory/article-slug/12345</guid>
+      <link>https://stocktwits.com/news-articles/category/subcategory/article-slug/12345</link>
+      <guid>https://stocktwits.com/news-articles/category/subcategory/article-slug/12345</guid>
       <description><![CDATA[Article summary...]]></description>
       <content:encoded><![CDATA[Full article content...]]></content:encoded>
       <pubDate>Mon, 01 Jan 2023 12:00:00 -0500</pubDate>
